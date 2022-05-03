@@ -1,6 +1,6 @@
 ### Hi, I'm Harsh Agarwal. 👋
 
- ![https://www.linkedin.com/in/harsh-agarwal-3a732520a/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+ [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-agarwal-3a732520a/)
  
 :man_student: I’m currently studying in Indian Institue of Technology, Varanasi.
 
