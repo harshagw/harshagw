@@ -14,5 +14,5 @@
 Languages -
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
-Development
+Development -
 ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=NODE.JS)&nbsp; ![NodeJs](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=React)&nbsp; ![Express](https://img.shields.io/badge/-Express%20JS-05122A?style=flat&logo=express&logoColor=1572B6)&nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=1572B6)&nbsp; ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=1572B6)&nbsp; ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=Sass&logoColor=1572B6)&nbsp;
